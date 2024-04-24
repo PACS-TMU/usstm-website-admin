@@ -1,4 +1,4 @@
-import Step from "./Step";
+import Step from "../Step";
 import Code from "./Code";
 
 const create = `
